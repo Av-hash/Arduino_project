@@ -1,4 +1,4 @@
-# Arduino_project
+# Password Protected Security System
 Aimed at implementing a **Password-Protected Security System** on TinkerCad which enables prompts the user to input a password using Keypad and checks whether the typed password matches to the original password set by the owner, in which case a Green LED lights up and a low pitch buzzer sound is produced and a welcome message is shown on the Serial Monitor, otherwise a Red LED light up and a high pitch alarm sound is produced to alert others and a Warning message is shown on the Serial Monitor.
 
 ## Hardware Requirements
