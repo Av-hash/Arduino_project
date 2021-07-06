@@ -14,4 +14,4 @@ Aimed at implementing a **Password-Protected Security System** on TinkerCad whic
 ![circuit-diagram](https://github.com/Av-hash/Arduino_project/blob/main/images/Password%20protected%20door%20lock%20system.png)
 
 ## Link to the project
-You can find the link to my TinkerCad project [here](https://www.tinkercad.com/things/jv4z8rakEgi-password-protected-security-system/editel)
+You can find the link to my TinkerCad project [here](https://www.tinkercad.com/things/jv4z8rakEgi-password-protected-security-system/editel?sharecode=tfs3uWA6Jms2-9ajCfr0qBo6QpZvFipGsNZBhN-OmbQ)
